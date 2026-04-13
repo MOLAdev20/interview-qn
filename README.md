@@ -120,7 +120,7 @@ Password: password
 │   └── ...
 ├── database/
 │   ├── migrations/
-│   │   └── 2024_xx_xx_create_tickets_table.php
+│   │   └── 2024_xx_xx_create_services_tickets_table.php
 │   └── seeders/
 ├── public/
 │   └── css/app.css
@@ -205,4 +205,4 @@ MIT License - free for commercial use.
 
 ---
 
-**© 2024 ISP Service Ticket System**
+**© 2026 ISP Service Ticket System**
